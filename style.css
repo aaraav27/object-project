@@ -1,0 +1,41 @@
+#main{
+    color: blue;
+    font-size: 22px;
+    font-family: cursive;
+    font-weight: 600;
+}
+
+body{
+    background-color:darkorange;
+}
+
+
+#comb{
+    width: 20%;
+    font-size: 20px;
+    box-shadow: 8px 8px 50px red;
+    background-color: lightblue;
+    border: 5px purple ridge;
+}
+#keyboard{
+    width: 20%;
+    font-size: 20px;
+    box-shadow: 8px 8px 50px red;
+    background-color: lightblue;
+    border: 5px purple ridge;
+}
+
+#book{
+    width: 20%;
+    font-size: 20px;
+    box-shadow: 8px 8px 50px red;
+    background-color: lightblue;
+    border: 5px purple ridge;
+}
+#mouse{
+    width: 20%;
+    font-size: 20px;
+    box-shadow: 8px 8px 50px red;
+    background-color: lightblue;
+    border: 5px purple ridge;
+}
